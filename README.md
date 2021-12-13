@@ -1,4 +1,4 @@
-# Stack_c_classes
+# Stack C++  template
 This is the Stack simulation witch realizing by C++ template
 
 U can use the same commands like in assembly:
